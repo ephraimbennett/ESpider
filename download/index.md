@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Download
+sectionid: download
 ---
 
 Here are the files available for download:
