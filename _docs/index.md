@@ -6,13 +6,9 @@ redirect_from: /docs/index.html
 
 ## Getting started
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
-
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `assets/img/logonav.png` with your own logo.
+[Download the Jar](https://pages.github.com) to get started setting up your application. As a lightweight, platform independent software, you don't need any complicated installer setups or configuration. Additionally, you can pull the source code directly from my [GitHub Repository](https://github.com/ephraimbennett/Scraping) if you are more technical and would like to compile and execute yourself. 
+### Coming soon
+I'm working on bundling the application with a small JRE, which will allow you to run ESpider without having your own version of Java installed. It will only be compatible with windows for now.
 
 ## Writing content
 
